@@ -5,7 +5,7 @@ package edu.tallerweb.pptls;
  */
 public class Mano {
 
-	private Mano forma;
+	private Forma forma;
 
 	/**
 	 * Toda Mano debe crearse con una forma dada, que será
